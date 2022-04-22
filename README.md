@@ -1,2 +1,4 @@
 # gitone
-public void update()
+public void update(){
+    System.out.println("This is Day One")
+}
